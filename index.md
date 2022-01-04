@@ -1,15 +1,13 @@
-# Hola Mundo
+## Especialistas en API
 
-You can use the [editor on GitHub](https://github.com/rojassoft/rojassoft.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Nos especializamos en el desarrollo backend basado en interfaces para programación de aplicaciones (API); no desarrollamos frontend.
 
-## Foo bar
+## Calidad
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nuestra prioridad es la calidad.
+Garantizamos la calidad de nuestros productos porque seguimos las mejores prácticas de programación de la industria.
+Por ejemplo, todo el código que escribimos está cubierto por pruebas y realizamos entregas continuas.
 
-### Especialistas en API
-
-Nos especializamos en el desarrollo backend basado en interfaces para programación de aplicaciones; no desarrollamos frontend.
-
-### Contacto
+## Contacto
 
 Escríbenos a `info@rojassoft.com`
