@@ -5,7 +5,7 @@ Nos especializamos en el desarrollo backend basado en interfaces para programaci
 ## Calidad
 
 Nuestra prioridad es la calidad.
-Garantizamos la calidad de nuestros productos porque seguimos las mejores prácticas de programación de la industria.
+Garantizamos la calidad de nuestros productos porque seguimos las mejores prácticas de programación en la industria.
 Por ejemplo, todo el código que escribimos está cubierto por pruebas y realizamos entregas continuas.
 
 ## Contacto
